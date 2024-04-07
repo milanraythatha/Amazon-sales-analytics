@@ -21,7 +21,7 @@ Explore a rich dataset containing the ratings and reviews of over 1K Amazon prod
 - **`product_link:`** Official website link of the product.
 
 ## Inspiration:
-This dataset is inspired by Amazon, a prominent American tech multinational company renowned for its extensive e-commerce operations. By providing access to this dataset, users are empowered to engage in activities such as data exploration, preprocessing, analysis, visualization, and even building recommendation systems. The dataset's versatility opens up numerous possibilities for exploration and discovery.
+This dataset is inspired by Amazon, renowned for its extensive e-commerce operations. By providing access to this dataset, users are empowered to engage in activities such as data exploration, preprocessing, analysis, visualization, and even building recommendation systems. The dataset's versatility opens up numerous possibilities for exploration and discovery.
 
 ## Potential Applications: 
 - Dataset Walkthrough
